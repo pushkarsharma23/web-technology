@@ -1,0 +1,10 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+  background-image: url(backgroundimage.avif);
+  background-size: cover;
+  position: fixed;
+  right: 0px;
+  
+}

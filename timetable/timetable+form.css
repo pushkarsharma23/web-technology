@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+table, th, td {
+  border: 4px solid black;
+    border-collapse: collapse;
+text-align: center;
+}
+
+
+.fade {
+  width: 100%;
+  height: 200%;
+
+  background-image: linear-gradient(to left, rgb(189, 135, 225), rgb(0, 0, 255, 0));
+  
+}
+image {
+
+height: 100px;
+
+}
+hr{
+    border: none;
+    background-color: black;
+    height: 0px;
+}
+#about {
+
+    text-align: center;
+}
+.photo{
+     border: 2px solid black;
+   border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.list{
+
+padding-left: 20px;
+
+}
